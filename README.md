@@ -1,4 +1,4 @@
-# 👋🏽 hi, i'm Dev
+# 👋🏽 hi, i'm dev
 > i'm a new yorker from new jersey
 
 ## interests
