@@ -1,6 +1,8 @@
 # 👋🏽 hi, i'm dev
 > i'm a new yorker 🗽 from new jersey 💐
 
+i am currently the principal quantitative scientist 🧑🏽‍🔬 at [@level-vc](https://github.com/level-vc).
+
 ## interests
  🚗 operating vehicles
  
@@ -22,7 +24,7 @@
  
  📸 2022 - interned at instagram (meta/fb)
  
- 🚀 2021 - did (and continued to do) research at nasa (space whoo!)
+ 🚀 2021 - did research at nasa (space whoo!)
  
  🧑‍🍳 2018 - started an ed tech startup that was funded by the national science foundation
  
