@@ -17,7 +17,7 @@ i am currently the principal quantitative scientist 🧑🏽‍🔬 at [@level-v
  
  🤖 machine learning, deep learning, data analytics
  
- ⚙️ operations (making things run _smoothly_)
+ ⚙️ operations (making things go _brrr_)
 
 ## some things i did
  🐯 2023 - phd in applied math from Princeton
@@ -35,6 +35,7 @@ i am currently the principal quantitative scientist 🧑🏽‍🔬 at [@level-v
  🌬️ 2016 - interned at airtable
  
 ## where to find me
+ 🌐 [website](https://devdabke.com)
 
  🧑‍⚖️ [linkedin](https://linkedin.com/in/ddabke)
  
