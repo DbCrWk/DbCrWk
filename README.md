@@ -1,7 +1,5 @@
 # 👋🏽 hi, i'm dev
-> i'm a new yorker 🗽 from new jersey 💐
-
-i am currently the principal quantitative scientist 🧑🏽‍🔬 at [@level-vc](https://github.com/level-vc).
+i am a mathematician by training and am currently the principal quantitative scientist 🧑🏽‍🔬 at [@level-vc](https://github.com/level-vc).
 
 ## interests
  🚗 operating vehicles
@@ -11,11 +9,11 @@ i am currently the principal quantitative scientist 🧑🏽‍🔬 at [@level-v
  ⛸️ ice skating
 
 ## _professional_ interests
- 💻 coding random and somewhat useful things
- 
- 🧮 math, broadly writ, but epsecially math in code
- 
+ 🧮 math, dynamic networks, math-in-code
+
  🤖 machine learning, deep learning, data analytics
+
+ 💻 coding somewhat useful things
  
  ⚙️ operations (making things go _brrr_)
 
