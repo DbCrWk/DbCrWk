@@ -1,5 +1,5 @@
 # 👋🏽 hi, i'm dev
-i am a mathematician by training and am currently the principal quantitative scientist 🧑🏽‍🔬 at [@level-vc](https://github.com/level-vc).
+i am a mathematician by training and currently a quantitative researcher
 
 ## interests
  🚗 operating vehicles
